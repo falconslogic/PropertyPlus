@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\komal\\source\\repos\\PropertyManagementApp\\PropertyManagementApp\\PropertyManagementApp.csproj": {}
+    "C:\\Users\\falconslogi\\Desktop\\github\\PropertyPlus\\PropertyManagementApp\\PropertyManagementApp\\PropertyManagementApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\komal\\source\\repos\\PropertyManagementApp\\PropertyManagementApp\\PropertyManagementApp.csproj": {
+    "C:\\Users\\falconslogi\\Desktop\\github\\PropertyPlus\\PropertyManagementApp\\PropertyManagementApp\\PropertyManagementApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\komal\\source\\repos\\PropertyManagementApp\\PropertyManagementApp\\PropertyManagementApp.csproj",
+        "projectUniqueName": "C:\\Users\\falconslogi\\Desktop\\github\\PropertyPlus\\PropertyManagementApp\\PropertyManagementApp\\PropertyManagementApp.csproj",
         "projectName": "PropertyManagementApp",
-        "projectPath": "C:\\Users\\komal\\source\\repos\\PropertyManagementApp\\PropertyManagementApp\\PropertyManagementApp.csproj",
-        "packagesPath": "C:\\Users\\komal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\komal\\source\\repos\\PropertyManagementApp\\PropertyManagementApp\\obj\\",
+        "projectPath": "C:\\Users\\falconslogi\\Desktop\\github\\PropertyPlus\\PropertyManagementApp\\PropertyManagementApp\\PropertyManagementApp.csproj",
+        "packagesPath": "C:\\Users\\falconslogi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\falconslogi\\Desktop\\github\\PropertyPlus\\PropertyManagementApp\\PropertyManagementApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\komal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\falconslogi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

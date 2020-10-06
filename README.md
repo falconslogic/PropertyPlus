@@ -1,1 +1,1 @@
-# PropertyPlus
+# This is a web application to rent properties.
