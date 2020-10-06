@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\nixon\\Github\\PropertyPlus\\PropertyManagementApp\\PropertyManagementApp\\PropertyManagementApp.csproj": {}
   },
   "projects": {
@@ -15,6 +16,22 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nixon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+    "C:\\Users\\falconslogi\\Desktop\\github\\PropertyPlus\\PropertyManagementApp\\PropertyManagementApp\\PropertyManagementApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\falconslogi\\Desktop\\github\\PropertyPlus\\PropertyManagementApp\\PropertyManagementApp\\PropertyManagementApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\falconslogi\\Desktop\\github\\PropertyPlus\\PropertyManagementApp\\PropertyManagementApp\\PropertyManagementApp.csproj",
+        "projectName": "PropertyManagementApp",
+        "projectPath": "C:\\Users\\falconslogi\\Desktop\\github\\PropertyPlus\\PropertyManagementApp\\PropertyManagementApp\\PropertyManagementApp.csproj",
+        "packagesPath": "C:\\Users\\falconslogi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\falconslogi\\Desktop\\github\\PropertyPlus\\PropertyManagementApp\\PropertyManagementApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\falconslogi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 41967624d8fa983d85a332393f74a90443e1ce75
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
