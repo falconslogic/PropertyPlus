@@ -8821,19 +8821,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\komal\\.nuget\\packages\\": {}
+    "C:\\Users\\nixon\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\komal\\source\\repos\\PropertyManagementApp\\PropertyManagementApp\\PropertyManagementApp.csproj",
+      "projectUniqueName": "C:\\Users\\nixon\\Github\\PropertyPlus\\PropertyManagementApp\\PropertyManagementApp\\PropertyManagementApp.csproj",
       "projectName": "PropertyManagementApp",
-      "projectPath": "C:\\Users\\komal\\source\\repos\\PropertyManagementApp\\PropertyManagementApp\\PropertyManagementApp.csproj",
-      "packagesPath": "C:\\Users\\komal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\komal\\source\\repos\\PropertyManagementApp\\PropertyManagementApp\\obj\\",
+      "projectPath": "C:\\Users\\nixon\\Github\\PropertyPlus\\PropertyManagementApp\\PropertyManagementApp\\PropertyManagementApp.csproj",
+      "packagesPath": "C:\\Users\\nixon\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nixon\\Github\\PropertyPlus\\PropertyManagementApp\\PropertyManagementApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\komal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\nixon\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
