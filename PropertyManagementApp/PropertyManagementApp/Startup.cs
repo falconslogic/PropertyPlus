@@ -26,7 +26,7 @@ namespace PropertyManagementApp
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
-
+            services.AddRazorPages();
             services.AddDbContext<PropertyManagementContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DevConnection")));
         }
 
@@ -36,6 +36,7 @@ namespace PropertyManagementApp
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
+                app.UseDatabaseErrorPage();
             }
             else
             {
@@ -48,6 +49,7 @@ namespace PropertyManagementApp
 
             app.UseRouting();
 
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
@@ -55,6 +57,7 @@ namespace PropertyManagementApp
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
+                endpoints.MapRazorPages();
             });
         }
     }

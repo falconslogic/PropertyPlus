@@ -1,37 +1,20 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "C:\\Users\\nixon\\Github\\PropertyPlus\\PropertyManagementApp\\PropertyManagementApp\\PropertyManagementApp.csproj": {}
+    "C:\\Users\\mnmai\\OneDrive\\Documents\\GitHub\\PropertyPlus\\PropertyManagementApp\\PropertyManagementApp\\PropertyManagementApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nixon\\Github\\PropertyPlus\\PropertyManagementApp\\PropertyManagementApp\\PropertyManagementApp.csproj": {
+    "C:\\Users\\mnmai\\OneDrive\\Documents\\GitHub\\PropertyPlus\\PropertyManagementApp\\PropertyManagementApp\\PropertyManagementApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nixon\\Github\\PropertyPlus\\PropertyManagementApp\\PropertyManagementApp\\PropertyManagementApp.csproj",
+        "projectUniqueName": "C:\\Users\\mnmai\\OneDrive\\Documents\\GitHub\\PropertyPlus\\PropertyManagementApp\\PropertyManagementApp\\PropertyManagementApp.csproj",
         "projectName": "PropertyManagementApp",
-        "projectPath": "C:\\Users\\nixon\\Github\\PropertyPlus\\PropertyManagementApp\\PropertyManagementApp\\PropertyManagementApp.csproj",
-        "packagesPath": "C:\\Users\\nixon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nixon\\Github\\PropertyPlus\\PropertyManagementApp\\PropertyManagementApp\\obj\\",
+        "projectPath": "C:\\Users\\mnmai\\OneDrive\\Documents\\GitHub\\PropertyPlus\\PropertyManagementApp\\PropertyManagementApp\\PropertyManagementApp.csproj",
+        "packagesPath": "C:\\Users\\mnmai\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mnmai\\OneDrive\\Documents\\GitHub\\PropertyPlus\\PropertyManagementApp\\PropertyManagementApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nixon\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-    "C:\\Users\\falconslogi\\Desktop\\github\\PropertyPlus\\PropertyManagementApp\\PropertyManagementApp\\PropertyManagementApp.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\falconslogi\\Desktop\\github\\PropertyPlus\\PropertyManagementApp\\PropertyManagementApp\\PropertyManagementApp.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\falconslogi\\Desktop\\github\\PropertyPlus\\PropertyManagementApp\\PropertyManagementApp\\PropertyManagementApp.csproj",
-        "projectName": "PropertyManagementApp",
-        "projectPath": "C:\\Users\\falconslogi\\Desktop\\github\\PropertyPlus\\PropertyManagementApp\\PropertyManagementApp\\PropertyManagementApp.csproj",
-        "packagesPath": "C:\\Users\\falconslogi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\falconslogi\\Desktop\\github\\PropertyPlus\\PropertyManagementApp\\PropertyManagementApp\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\falconslogi\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> 41967624d8fa983d85a332393f74a90443e1ce75
+          "C:\\Users\\mnmai\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,6 +38,22 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[3.1.8, )"
@@ -96,7 +95,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
